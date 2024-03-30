@@ -14,7 +14,7 @@
 
 <div align="left">
   <h2>My Links</h2>
-  <a href="linkedin.com/in/garick-mendez/">
+  <a href="https://linkedin.com/in/garick-mendez/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <p>LinkedIn</p>
   </a>
