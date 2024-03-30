@@ -3,6 +3,9 @@
   <a href="https://garickm.com">
     Portfolio
   </a>
+   <a href="https://linkedin.com/in/garick-mendez/">
+    LinkedIn
+  </a>
 </div>
 
 <div align="left">
