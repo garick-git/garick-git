@@ -1,10 +1,9 @@
 <div align="center">
   <h1>Hi, my name is Garick Mendez 👋</h1>
-  <div style="padding:10px;">
+  <div style="padding:30px;">
     <a href="https://garickm.com">
       Portfolio
     </a>
-    <br>
     <a href="https://linkedin.com/in/garick-mendez/">
       LinkedIn
     </a>
