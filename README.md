@@ -18,5 +18,5 @@
 
 <div align="left">
   <h2>My Skills</h2>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,python,aws&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,next,python,aws&perline=3" />
 </div>
