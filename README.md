@@ -2,5 +2,5 @@
 <br>
 <h2>About me</h2>
 <p>I am a Software Developer with 3 years of experience. I enjoy building reactive and rich sites & apps with a focus in business. My main stack is React, TypeScript, Tailwind CSS,and AWS.</p>
-<h2>My Skills</h2>
+<h3>My Skills</h3>
 <p>React</p>
