@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <h1>Hi, my name is Garick Mendez 👋</h1>
 <br>
 <h2>About me</h2>
