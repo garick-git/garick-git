@@ -19,7 +19,6 @@
 <div>
   <h2>My Skills</h2>
   <table>
-    <div>
       <tr>
         <div>
           <h3>Front-End</h3>
@@ -34,6 +33,5 @@
           <img src="https://skillicons.dev/icons?i=aws,docker,nginx&perline=4" />
         </div>
       </tr>
-    </div>
   </table>
 </div>
