@@ -32,4 +32,17 @@
   </div>
 </div>
 
-
+<style>
+    div {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .frontend-container,
+  .backend-container,
+  .deployment-container {
+    flex: 1 0 33%; /* Each container occupies one-third of the available space */
+    padding: 10px; /* Add padding to each container for spacing */
+    box-sizing: border-box; /* Include padding and border in the container's total width */
+  }
+</style>
