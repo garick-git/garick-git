@@ -18,32 +18,32 @@
 
 <div>
   <h2>My Skills</h2>
-  <table>
-  <tr>
-    <td>
-      <div>
-        <h3>Front-End</h3>
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,next&perline=4" />
-      </div>
-    </td>
-    <td>
-      <div>
-        <h3>Back-End</h3>
-        <img src="https://skillicons.dev/icons?i=python,nodejs,php&perline=4" />
-      </div>
-    </td>
-    <td>
-      <div>
-        <h3>Database</h3>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
-      </div>
-    </td>
-    <td>
-      <div>
-        <h3>Deployment</h3>
-        <img src="https://skillicons.dev/icons?i=aws,docker,nginx&perline=4" />
-      </div>
-    </td>
+  <table align="center">
+    <tr>
+      <td>
+        <div>
+          <h3>Front-End</h3>
+          <img src="https://skillicons.dev/icons?i=react,ts,tailwind,next&perline=4" />
+        </div>
+      </td>
+      <td>
+        <div>
+          <h3>Back-End</h3>
+          <img src="https://skillicons.dev/icons?i=python,nodejs,php&perline=4" />
+        </div>
+      </td>
+      <td>
+        <div>
+          <h3>Database</h3>
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
+        </div>
+      </td>
+      <td>
+        <div>
+          <h3>Deployment</h3>
+          <img src="https://skillicons.dev/icons?i=aws,docker,nginx&perline=4" />
+        </div>
+      </td>
   </tr>
 </table>
 </div>
