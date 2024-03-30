@@ -18,31 +18,17 @@
 
 <div>
   <h2>My Skills</h2>
-  <div class="frontend-container">
+  <div>
     <h3>Front-End</h3>
     <img src="https://skillicons.dev/icons?i=react,ts,tailwind,next&perline=4" />
-  </div>
-  <div class="backend-container">
     <h3>Back-End</h3>
     <img src="https://skillicons.dev/icons?i=python,nodejs,php&perline=4" />
   </div>
-  <div class="deployment-container">
+  <div>
+    
+  </div>
+  <div>
     <h3>Deployment</h3>
     <img src="https://skillicons.dev/icons?i=aws,docker&perline=4" />
   </div>
 </div>
-
-<style>
-    div {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .frontend-container,
-  .backend-container,
-  .deployment-container {
-    flex: 1 0 33%; /* Each container occupies one-third of the available space */
-    padding: 10px; /* Add padding to each container for spacing */
-    box-sizing: border-box; /* Include padding and border in the container's total width */
-  }
-</style>
