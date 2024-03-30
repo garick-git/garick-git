@@ -18,12 +18,22 @@
 
 <div>
   <h2>My Skills</h2>
-  <div>
-    <h3>Front-End</h3>
-    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,next&perline=4" />
-    <h3>Back-End</h3>
-    <img src="https://skillicons.dev/icons?i=python,nodejs,php&perline=4" />
-    <h3>Deployment</h3>
-    <img src="https://skillicons.dev/icons?i=aws,docker,nginx&perline=4" />
-  </div>
+  <table>
+    <div>
+      <tr>
+        <div>
+          <h3>Front-End</h3>
+          <img src="https://skillicons.dev/icons?i=react,ts,tailwind,next&perline=4" />
+        </div>
+        <div>
+          <h3>Back-End</h3>
+          <img src="https://skillicons.dev/icons?i=python,nodejs,php&perline=4" />
+        </div>
+        <div>
+          <h3>Deployment</h3>
+          <img src="https://skillicons.dev/icons?i=aws,docker,nginx&perline=4" />
+        </div>
+      </tr>
+    </div>
+  </table>
 </div>
