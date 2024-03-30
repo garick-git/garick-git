@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, my name is Garick Mendez 👋</h1>
-  <div style="padding:100px;">
+  <div style="gap:100px;">
     <a href="https://garickm.com">
       Portfolio
     </a>
