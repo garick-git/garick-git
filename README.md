@@ -8,6 +8,6 @@
 </div>
 
 <div align="left">
-  <h2 align="center">My Skills</h2>
-  <img align="center" src="https://skillicons.dev/icons?i=react,ts,tailwind,python,aws&perline=5" />
+  <h2>My Skills</h2>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,python,aws&perline=5" />
 </div>
