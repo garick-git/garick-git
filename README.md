@@ -17,5 +17,8 @@
   <a href="https://linkedin.com/in/garick-mendez/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://garickm.com">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
 </div>
 
