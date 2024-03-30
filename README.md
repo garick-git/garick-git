@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, my name is Garick Mendez 👋</h1>
   <a href="https://garickm.com">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+    Portfolio
   </a>
 </div>
 
