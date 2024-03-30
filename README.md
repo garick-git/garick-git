@@ -11,3 +11,12 @@
   <h2>My Skills</h2>
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,python,aws&perline=5" />
 </div>
+
+<div align="left">
+  <h2>My Links</h2>
+  <a href="linkedin.com/in/garick-mendez/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <p>LinkedIn</p>
+  </a>
+</div>
+
