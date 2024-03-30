@@ -18,5 +18,12 @@
 
 <div align="left">
   <h2>My Skills</h2>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,next,python,aws&perline=3" />
+  <div>
+    <h3>Front-End</h3>
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,next&perline=2" />
+  </div>
+  <div>
+    <h3>Back-End</h3>
+    <img src="https://skillicons.dev/icons?i=python,node,php&perline=2" />
+  </div>
 </div>
