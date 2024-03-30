@@ -24,6 +24,6 @@
   </div>
   <div>
     <h3>Back-End</h3>
-    <img src="https://skillicons.dev/icons?i=python,node,php&perline=2" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,php&perline=2" />
   </div>
 </div>
