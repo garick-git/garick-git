@@ -18,15 +18,15 @@
 
 <div>
   <h2>My Skills</h2>
-  <div style="display: inline-block;">
+  <div class="frontend-container">
     <h3>Front-End</h3>
     <img src="https://skillicons.dev/icons?i=react,ts,tailwind,next&perline=4" />
   </div>
-  <div style="display: inline-block; margin-left: 20px;">
+  <div class="backend-container">
     <h3>Back-End</h3>
     <img src="https://skillicons.dev/icons?i=python,nodejs,php&perline=4" />
   </div>
-  <div style="display: inline-block; margin-left: 20px;">
+  <div class="deployment-container">
     <h3>Deployment</h3>
     <img src="https://skillicons.dev/icons?i=aws,docker&perline=4" />
   </div>
