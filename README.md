@@ -41,7 +41,7 @@
       <td>
         <div>
           <h3>Database</h3>
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
+          <img src="https://skillicons.dev/icons?i=mysql,dynamodb&perline=4" />
         </div>
       </td>
   </tr>
