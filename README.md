@@ -29,7 +29,7 @@
       <td>
         <div>
           <h3>Back-End</h3>
-          <img src="https://skillicons.dev/icons?i=nodejs,python,php,laravel&perline=4" />
+          <img src="https://skillicons.dev/icons?i=nodejs,python,php,java&perline=4" />
         </div>
       </td>
       <td>
