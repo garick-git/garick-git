@@ -29,19 +29,19 @@
       <td>
         <div>
           <h3>Back-End</h3>
-          <img src="https://skillicons.dev/icons?i=nodejs,python,php,java&perline=4" />
+          <img src="https://skillicons.dev/icons?i=python,django,java&perline=4" />
         </div>
       </td>
       <td>
         <div>
           <h3>Deployment</h3>
-          <img src="https://skillicons.dev/icons?i=aws,docker,nginx&perline=4" />
+          <img src="https://skillicons.dev/icons?i=aws,docker&perline=4" />
         </div>
       </td>
       <td>
         <div>
           <h3>Database</h3>
-          <img src="https://skillicons.dev/icons?i=mysql,dynamodb&perline=4" />
+          <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=4" />
         </div>
       </td>
   </tr>
