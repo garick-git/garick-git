@@ -1,49 +1,43 @@
 <div align="center">
   <h1>Hi, my name is Garick Mendez 👋</h1>
-  <div">
-    <a href="https://garickm.com">
-      Portfolio
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/garick-mendez/">
-      LinkedIn
-    </a>
-  </div>
+  <p>
+    <a href="https://garickm.com">Portfolio</a>
+    &nbsp;·&nbsp;
+    <a href="https://linkedin.com/in/garick-mendez/">LinkedIn</a>
+  </p>
 </div>
 
-<div align="left">
-  <h2>About me</h2>
-  <p>I am a Software Developer with 4+ years of experience. I enjoy building reactive and rich sites & apps with a focus on business. My main stack is React, TypeScript, Tailwind CSS, and Python.</p>
-</div>
+<h2>About me</h2>
+<p>
+  I'm a full-stack software engineer in Austin with 2+ years of professional experience
+  and internships since 2021. I build fast, accessible web apps end to end, from the
+  database and API to the interface. My main stack is Next.js (TypeScript), Django (Python),
+  PostgreSQL, and AWS.
+</p>
 
-<div>
-  <h2>My Skills</h2>
-  <table align="center">
-    <tr>
-      <td>
-        <div>
-          <h3>Front-End</h3>
-          <img src="https://skillicons.dev/icons?i=react,ts,tailwind,next&perline=4" />
-        </div>
-      </td>
-      <td>
-        <div>
-          <h3>Back-End</h3>
-          <img src="https://skillicons.dev/icons?i=python,django,java&perline=4" />
-        </div>
-      </td>
-      <td>
-        <div>
-          <h3>Deployment</h3>
-          <img src="https://skillicons.dev/icons?i=aws,docker&perline=4" />
-        </div>
-      </td>
-      <td>
-        <div>
-          <h3>Database</h3>
-          <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=4" />
-        </div>
-      </td>
+<h2>Featured project</h2>
+<p>
+  🛰️ <a href="https://github.com/garick-git/phoebe"><b>Phoebe</b></a>: a satellite-viewing app
+  that tells you when to go outside to see the ISS, Tiangong, or Hubble, and whether clouds
+  will get in the way. Django, PostgreSQL, and Next.js on AWS, with a GitHub Actions pipeline
+  that tests and deploys every change.
+  <a href="https://phoebe.garickm.com/">Try it live</a>.
+</p>
+
+<h2>My skills</h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Front end</h3>
+      <img src="https://skillicons.dev/icons?i=react,ts,next,tailwind&perline=4" alt="React, TypeScript, Next.js, Tailwind CSS" />
+    </td>
+    <td align="center">
+      <h3>Back end</h3>
+      <img src="https://skillicons.dev/icons?i=python,django,flask,postgres&perline=4" alt="Python, Django, Flask, PostgreSQL" />
+    </td>
+    <td align="center">
+      <h3>DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git&perline=4" alt="AWS, Docker, GitHub Actions, Git" />
+    </td>
   </tr>
 </table>
-</div>
