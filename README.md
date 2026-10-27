@@ -33,7 +33,7 @@
     </td>
     <td align="center">
       <h3>Back end</h3>
-      <img src="https://skillicons.dev/icons?i=python,django,flask,postgres&perline=4" alt="Python, Django, Flask, PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=python,django,flask,postgres&perline=4" alt="Python, Django, PostgreSQL" />
     </td>
     <td align="center">
       <h3>DevOps</h3>
